@@ -1,5 +1,5 @@
 package com.educacionit.students.services;
 
-public class iNoticitation {
+public interface iNoticitation {
 
 }
